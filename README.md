@@ -10,4 +10,4 @@ Some current areas of interest:
 - Distributed systems and data visualization
 - Tools that turn messy real-world data into something understandable
 
-Projects here are a mix of experiments, ongoing builds, and things I’ve made with my sons.
+Projects here are a mix of experiments, ongoing builds, and things I’ve made with my family.
