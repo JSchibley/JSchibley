@@ -1,6 +1,6 @@
 Hi there
 
-I’ve spent most of my career working on large-scale infrastructure systems, often in situations where things were complex or going wrong.
+Based in Manomet, Massachusetts (Greater Boston area).  I’ve spent most of my career working on large-scale infrastructure systems, often in situations where things were complex or going wrong.
 
 These days I’m interested in building smaller things again, especially projects that explore how systems behave under constraint or partial information.
 
